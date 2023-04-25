@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T17:57:27 EDT" name="OrangeHRM" finished-at="2023-04-25T17:58:17 EDT" duration-ms="49305">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T17:57:27 EDT" name="TestNG" finished-at="2023-04-25T17:58:17 EDT" duration-ms="49305">
+      <class name="testLayer.LoginTest">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:27 EDT" name="initsetup" finished-at="2023-04-25T17:57:35 EDT" duration-ms="8041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Tittle()[pri:1, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:35 EDT" name="Tittle" finished-at="2023-04-25T17:57:35 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tittle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:35 EDT" name="close" finished-at="2023-04-25T17:57:36 EDT" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:37 EDT" name="initsetup" finished-at="2023-04-25T17:57:44 EDT" duration-ms="7245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:44 EDT" name="Login" data-provider="Details" finished-at="2023-04-25T17:57:49 EDT" duration-ms="5086" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:49 EDT" name="close" finished-at="2023-04-25T17:57:50 EDT" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:50 EDT" name="initsetup" finished-at="2023-04-25T17:57:58 EDT" duration-ms="7800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:57:58 EDT" name="Login" data-provider="Details" finished-at="2023-04-25T17:58:03 EDT" duration-ms="5080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:58:03 EDT" name="close" finished-at="2023-04-25T17:58:03 EDT" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:58:03 EDT" name="initsetup" finished-at="2023-04-25T17:58:11 EDT" duration-ms="7514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:58:11 EDT" name="Login" data-provider="Details" finished-at="2023-04-25T17:58:16 EDT" duration-ms="4944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[scott]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@f5ac9e4]" started-at="2023-04-25T17:58:16 EDT" name="close" finished-at="2023-04-25T17:58:17 EDT" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
